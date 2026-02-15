@@ -38,9 +38,13 @@
 *.PrjPcbStructure
 *.zip
 History/
+**/History/
+*.SchDoc.Zip
 __Previews/
 Project Logs for ModbusYoRadio/
 Librares/
+Project Logs for Fornello/
+Fornello.PrjPcbStructure
 
 # Прочие временные и пользовательские настройки
 *.apr
